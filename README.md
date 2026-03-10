@@ -324,3 +324,11 @@ Rate limiting
 Better UI design
 
 ---
+## Backend API
+
+This frontend connects to the Phoenix authentication API.
+
+Backend repository:
+https://github.com/DineshShrestha/authentication_system
+
+The backend provides JWT authentication, refresh token rotation, and protected API endpoints.
