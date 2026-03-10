@@ -1,0 +1,41 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  background-color: #f4f6fb;
+}
+
+a {
+  font-weight: 500;
+  color: #4f46e5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4338ca;
+}
+
+button {
+  font: inherit;
+}
